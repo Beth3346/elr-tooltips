@@ -1,16 +1,21 @@
-# DRM Tooltips
+# ELR Tooltips
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-jQuery powered tooltips
-Requires jQuery
+A jQuery component
 
-## Features:
+### Dependencies:
 
-## Usage:
++ jQuery
 
-### Initialize:
+### Features:
 
-#### Options:
+### Config:
 
-#### Examples:
+### Example Usage:
+
+#### Sample html
+
+###License
+
+ELR-Tooltips is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
