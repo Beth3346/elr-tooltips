@@ -1,0 +1,31 @@
+{
+  "name": "elr-tooltips",
+  "version": "0.0.0",
+  "homepage": "https://github.com/elr-utilities/elr-tooltips",
+  "authors": [
+    "Elizabeth Rogers <beth@elizabeth-rogers.com>"
+  ],
+  "description": "Javascript Tooltips",
+  "main": "dist/elr-tooltips.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tooltips",
+    "jquery",
+    "javascript",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
